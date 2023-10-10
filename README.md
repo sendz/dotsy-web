@@ -1,2 +1,3 @@
 # dotsy-web
-Created with CodeSandbox
+
+Simple game to check which dot have different color than the others
